@@ -6,7 +6,7 @@ int main()
   system("cls");
   struct
   {
-    string name = "Asim";
+    string name = "Asim Ali";
     int roll = 88;
     char section = 'A';
   } student_detail;
