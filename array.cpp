@@ -22,3 +22,4 @@ int getArrayLength = sizeof(myNumbers)  ;
 cout<<sizeof(myNumbers[0])<<endl;
 cout << getArrayLength;
 }
+
