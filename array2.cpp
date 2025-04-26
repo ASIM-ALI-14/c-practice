@@ -14,4 +14,11 @@ int main(){
     cout<<arr[i]<<endl;
 
   }
+  int sum =0;
+  for(int j=0;j<10;j++){
+    sum =sum + arr[j];
+  }
+  cout <<"sum of array is"<<sum;
+  cout <<"avg of array is"<<sum/10;
+
 }
